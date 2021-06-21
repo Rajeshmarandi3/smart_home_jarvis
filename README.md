@@ -28,7 +28,7 @@
   - `conda activate face_recognition`
 
 * Now, we can use our system after we clone the repo:
-    - `git clone https://gitlab.ischoolconnect.com/ischoolconnect/core-Ai/isc-via-vision-api.git`
+    - `git clone https://github.com/Rajeshmarandi3/smart_home_jarvis.git`
     - install requirements using `pip install -r requirements.txt`
     - to run the server `python main.py`
     
